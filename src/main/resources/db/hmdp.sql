@@ -13,7 +13,8 @@
 
  Date: 14/03/2022 21:38:11
 */
-
+create schema hmdp;
+use hmdp;
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
